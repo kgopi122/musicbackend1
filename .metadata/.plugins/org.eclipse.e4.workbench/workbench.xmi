@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_yC1IcS2lEfCMoatvSYaFog" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_yC1Ici2lEfCMoatvSYaFog" bindingContexts="_yC1Iey2lEfCMoatvSYaFog">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LikedSong.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/model/LikedSong.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/src/main/java/project/com/model/LikedSong.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LikedSongController.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/controller/LikedSongController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/src/main/java/project/com/controller/LikedSongController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;hjbh.jh&quot; tooltip=&quot;S14JabportalBackEnd/hjbh.jh&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/hjbh.jh&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Song.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/model/Song.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/src/main/java/project/com/model/Song.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;package-lock.json&quot; tooltip=&quot;S14JabportalBackEnd/package-lock.json&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/package-lock.json&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;package.json&quot; tooltip=&quot;S14JabportalBackEnd/package.json&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/package.json&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LikedSong.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/model/LikedSong.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/src/main/java/project/com/model/LikedSong.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LikedSongController.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/controller/LikedSongController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/S14JabportalBackEnd/src/main/java/project/com/controller/LikedSongController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_yC1Ici2lEfCMoatvSYaFog" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_yUPBgi2lEfCMoatvSYaFog" label="%trimmedwindow.label.eclipseSDK" x="952" y="0" width="976" height="1028">
     <persistedState key="coolBarVisible" value="true"/>
@@ -85,9 +85,9 @@
           <tags>persp.editorOnboardingCommand:Find Actions$$$Ctrl+3</tags>
           <tags>persp.editorOnboardingCommand:Show Key Assist$$$Ctrl+Shift+L</tags>
           <tags>persp.editorOnboardingCommand:New$$$Ctrl+N</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_yanWUS2lEfCMoatvSYaFog" selectedElement="_yanWUi2lEfCMoatvSYaFog" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_yanWUS2lEfCMoatvSYaFog" selectedElement="_yanWXi2lEfCMoatvSYaFog" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_yanWUi2lEfCMoatvSYaFog" elementId="topLeft" containerData="2000" selectedElement="_yanWUy2lEfCMoatvSYaFog">
-              <tags>active</tags>
+              <tags>noFocus</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_yanWUy2lEfCMoatvSYaFog" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_yacXMC2lEfCMoatvSYaFog" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:General</tags>
@@ -133,7 +133,7 @@
                 <tags>categoryTag:Debug</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_yanWXi2lEfCMoatvSYaFog" containerData="8000" selectedElement="_yanWZS2lEfCMoatvSYaFog">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_yanWXi2lEfCMoatvSYaFog" containerData="8000" selectedElement="_yanWXy2lEfCMoatvSYaFog">
               <children xsi:type="basic:PartSashContainer" xmi:id="_yanWXy2lEfCMoatvSYaFog" containerData="8000" selectedElement="_yanWYC2lEfCMoatvSYaFog" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_yanWYC2lEfCMoatvSYaFog" elementId="org.eclipse.ui.editorss" containerData="8000" ref="_yaWQkC2lEfCMoatvSYaFog"/>
                 <children xsi:type="basic:PartStack" xmi:id="_yanWYS2lEfCMoatvSYaFog" elementId="topRight" containerData="2000" selectedElement="_yanWYi2lEfCMoatvSYaFog">
@@ -253,20 +253,17 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_yaWQkC2lEfCMoatvSYaFog" elementId="org.eclipse.ui.editorss" selectedElement="_yaWQkS2lEfCMoatvSYaFog">
-      <children xsi:type="basic:PartStack" xmi:id="_yaWQkS2lEfCMoatvSYaFog" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_2QGtcC3iEfCBSvQnbhT-Xg">
+      <children xsi:type="basic:PartStack" xmi:id="_yaWQkS2lEfCMoatvSYaFog" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_uXwWUJk8EfCqgqJQlOmuQg">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
-        <children xsi:type="basic:Part" xmi:id="_2QGtcC3iEfCBSvQnbhT-Xg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LikedSong.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LikedSong.java&quot; partName=&quot;LikedSong.java&quot; title=&quot;LikedSong.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/model/LikedSong.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/S14JabportalBackEnd/src/main/java/project/com/model/LikedSong.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;570&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <tags>active</tags>
+        <children xsi:type="basic:Part" xmi:id="_uXwWUJk8EfCqgqJQlOmuQg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Song.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Song.java&quot; partName=&quot;Song.java&quot; title=&quot;Song.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/model/Song.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/S14JabportalBackEnd/src/main/java/project/com/model/Song.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;554&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_Bt18EC3jEfCBSvQnbhT-Xg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LikedSongController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LikedSongController.java&quot; partName=&quot;LikedSongController.java&quot; title=&quot;LikedSongController.java&quot; tooltip=&quot;S14JabportalBackEnd/src/main/java/project/com/controller/LikedSongController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/S14JabportalBackEnd/src/main/java/project/com/controller/LikedSongController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -276,8 +273,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1746885053940&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_yegX0C2lEfCMoatvSYaFog" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -459,7 +454,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yW6iEC2lEfCMoatvSYaFog" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_B3jtIGlJEfCm44ZURNvqaw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_yDvufy2lEfCMoatvSYaFog"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_jvq9UJk8EfCqgqJQlOmuQg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_yDvufy2lEfCMoatvSYaFog"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yW7wMC2lEfCMoatvSYaFog" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -467,8 +462,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yW7wMi2lEfCMoatvSYaFog" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_B3k7QGlJEfCm44ZURNvqaw" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_yDq2NC2lEfCMoatvSYaFog"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_B3k7QWlJEfCm44ZURNvqaw" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_yDtSNS2lEfCMoatvSYaFog"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_jvsLcJk8EfCqgqJQlOmuQg" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_yDq2NC2lEfCMoatvSYaFog"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_jvsygJk8EfCqgqJQlOmuQg" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" command="_yDtSNS2lEfCMoatvSYaFog"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yW7wMy2lEfCMoatvSYaFog" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -498,7 +493,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yW7wNy2lEfCMoatvSYaFog" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_B3mJYGlJEfCm44ZURNvqaw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_yDvHcy2lEfCMoatvSYaFog"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_jvtZkpk8EfCqgqJQlOmuQg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_yDvHcy2lEfCMoatvSYaFog"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yW7wOC2lEfCMoatvSYaFog" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -542,8 +537,21 @@
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_SdRrsJh8EfC5csG2ll-Cqw" elementId="topLeft(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
     </trimBars>
-    <trimBars xmi:id="_yC1IeS2lEfCMoatvSYaFog" elementId="org.eclipse.ui.trim.vertical2" contributorURI="platform:/plugin/org.eclipse.platform" side="Right"/>
+    <trimBars xmi:id="_yC1IeS2lEfCMoatvSYaFog" elementId="org.eclipse.ui.trim.vertical2" contributorURI="platform:/plugin/org.eclipse.platform" toBeRendered="false" side="Right">
+      <children xsi:type="menu:ToolControl" xmi:id="_Sdwz4Jh8EfC5csG2ll-Cqw" elementId="topRight(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_SeArgJh8EfC5csG2ll-Cqw" elementId="bottomRight(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+    </trimBars>
   </children>
   <bindingTables xmi:id="_yC1Iei2lEfCMoatvSYaFog" contributorURI="platform:/plugin/org.eclipse.platform" bindingContext="_yC1Iey2lEfCMoatvSYaFog">
     <bindings xmi:id="_yELzVS2lEfCMoatvSYaFog" keySequence="CTRL+1" command="_yDqPIS2lEfCMoatvSYaFog"/>

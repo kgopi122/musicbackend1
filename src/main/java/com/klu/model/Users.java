@@ -16,9 +16,6 @@ public class Users {
 	@Column(name = "email")
 	String email;
 	
-	@Column(name = "role")
-	int role;
-	
 	@Column(name = "password")
 	String password;
 
@@ -38,14 +35,6 @@ public class Users {
 		this.email = email;
 	}
 
-	public int getRole() {
-		return role;
-	}
-
-	public void setRole(int role) {
-		this.role = role;
-	}
-
 	public String getPassword() {
 		return password;
 	}
@@ -56,7 +45,7 @@ public class Users {
 
 	@Override
 	public String toString() {
-		return "Users [fullname=" + fullname + ", email=" + email + ", role=" + role + ", password=" + password + "]";
+		return "Users [fullname=" + fullname + ", email=" + email + ", password=" + password + "]";
 	}
 	
 	
