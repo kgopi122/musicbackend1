@@ -11,7 +11,11 @@
 	<groupId>klu</groupId>
 	<artifactId>S14JabportalBackEnd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 	<packagi
+=======
+	<packaging>jar</packaging>
+>>>>>>> f220f31f3f5f3c899257bd9501ee3e6e3ba5e6d0
 	<name>S14JabportalBackEnd</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
